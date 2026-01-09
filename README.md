@@ -194,7 +194,6 @@ Below is a list of all main packages and libraries used in this project, with a 
 2. A WebRTC connection is established between both parties, with signaling handled via Socket.io.
 3. A video window appears for both users, enabling direct communication.
 4. When the call ends, the connection is closed and the window is dismissed.
-
 ---
 
 ## Team & Collaboration
